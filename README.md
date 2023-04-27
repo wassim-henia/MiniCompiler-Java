@@ -6,7 +6,7 @@
 - Run python ui.py to run the UI
 - It's made with Tkinter
 - It has basic text editing tools like saving,copy-paste,opening file...
-- Clicking on the compile button launches miniJava.exe and compiles the code in the Code Textbox and shows the lexical and syntaxic errors in the Console Textbox.
+- Clicking on Run Tab then compile. It will execute miniJava.exe and compiles the code in the Code Textbox and shows the lexical, syntaxic and semantic errors in the Console Textbox.
 - It will also generate assembly code which can be seen in MiniCompiler/generatedCode.txt
 ### Execution:
 
