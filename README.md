@@ -11,6 +11,10 @@
 ### Execution:
 
 
+https://user-images.githubusercontent.com/51765101/234975384-d655b6c7-1762-4797-ac62-6b69ca33acaa.mp4
+
+
+
 ## MiniJava Syntax
 - The Syntax_Generator folder contains the lex (.l), yacc (.y) and semantic files that generates miniJava.exe.
 - It also can generate really simple assembly code.
