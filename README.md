@@ -1,8 +1,9 @@
 # MiniJava Compiler  
 
-- This is a Windows Form Application that let you edit code from ".java" files and compiles them using miniJava syntax.
+- This is a User Interfaces that let you edit code from ".java" files and compiles them using miniJava syntax.
 
 ## Interface
+- Run python ui.py to run the UI
 - It's made with Tkinter
 - It has basic text editing tools like saving,copy-paste,opening file...
 - Clicking on the compile button launches miniJava.exe and compiles the code in the Code Textbox and shows the lexical and syntaxic errors in the Console Textbox.
